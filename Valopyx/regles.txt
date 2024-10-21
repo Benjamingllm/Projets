@@ -1,0 +1,16 @@
+Bienvenue dans Valopyx
+
+Ce jeu est inspiré du célebre fps Valorant.
+Le principe est simple, Vous etes un ataquant et vous avez 2 moyens de gagner:
+premierement, vous pouvez éliminer vos 5 énemis(pixels rose) placés aléatoirement 
+sur la carte en cliquant avec clique gauche.
+En second, vous pouvez gagner en faisant exploser un spike (représenté par un pixel jaune)
+pour cela , si vous etes a proximité de ce dernier, vous pouvez le ramasser en cliquant
+sur la touche G
+ensuite, allez jusqu'a une zone de plant(marqué par un contour beige)
+et cliquer sur R pour le planter, il explosera au bout de 20 s
+cependant , si un enemi reste a proximité de celui ci assez longtemps,
+il le désamorcera et vous aurez perdu.
+petite subtilité, les enemis ne bouge pas par eux meme mais lorsque vous etes
+proche d'un des site de plant (A ou B) alors les enemis non assignés a 
+cette zone suiveront le chemin le plus cour pour s'y rendre(on appelle cela une rotation)
